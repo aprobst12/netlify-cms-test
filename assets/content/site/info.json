@@ -1,5 +1,5 @@
 {
-  "sitename": "NTN Boilerplate",
-  "sitedescription": "NTN Boilerplate description",
-  "sitelang": "en-US"
+  "sitename": "Test Page",
+  "sitedescription": "Test Page for netlify and nuxt",
+  "sitelang": "de-AT"
 }
